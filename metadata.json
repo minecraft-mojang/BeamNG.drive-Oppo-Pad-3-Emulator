@@ -1,0 +1,6 @@
+{
+  "name": "BeamPad Drive",
+  "description": "Specialized high-performance BeamNG.drive emulator engineered for Oppo Pad 3, featuring custom Vulkan drivers, 144Hz sync, thermal governor, and customizable touch controls overlay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
